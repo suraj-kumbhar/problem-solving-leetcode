@@ -5,3 +5,4 @@ Id | Title | Difficulty
 75 | Sort Colors | Medium
 367 | Valid Perfect Square | Easy
 969 | Pancake Sorting | Medium
+1089 | Duplicate Zeroes | Easy
